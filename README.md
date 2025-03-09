@@ -56,7 +56,7 @@ All data will be logged daily at the same time in an Excel file. Any outliers re
 - **Minimal Feature Engineering**:  
   - Compute daily changes in body weight and fat percentage.  
   - Categorize sleep quality and exercise time into defined groups (e.g., low, moderate, high) as needed.  
-  - Calculate the "Calorie Deficit" using the formula: `2300 - (Daily Caloric Intake - Calories Burned during Exercise)`.  
+  - Calculate the "Calorie Deficit" using the formula: 2300 - (Daily Caloric Intake - Calories Burned during Exercise).  
 
 ### **2. Exploratory Data Analysis (EDA)**
 #### **Descriptive Analysis**
@@ -101,9 +101,9 @@ This project aims to provide clear, data-driven answers to the following key que
   Explore whether factors such as protein intake and exercise have synergistic effects on reducing body fat.  
 
 - **Can targeted adjustments lead to measurable improvements?**  
-  Evaluate if improvements in specific areas—like increased protein, better sleep, or extended exercise time—result in greater fat loss and weight reduction.  
+  Evaluate if improvements in specific areas like increased protein, better sleep, or extended exercise time result in greater fat loss and weight reduction.  
 
 - **What actionable insights can guide sustainable weight management?**  
-  Translate statistical findings into practical, long-term strategies for effective weight and fat reduction.  
+  Translate statistical findings into practical, long term strategies for effective weight and fat reduction.  
 
 By addressing these questions, the project will not only enhance our understanding of how daily habits shape physical outcomes but also provide a scalable framework for making informed, sustainable lifestyle changes.
